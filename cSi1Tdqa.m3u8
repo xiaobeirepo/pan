@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:7
+#EXTINF:6.051667,
+https://gitee.com/okayjskl/kojidk/raw/master/cSi1Tdqaoutput000.ts
+#EXTINF:5.968333,
+https://gitee.com/okayjskl/kojidk/raw/master/cSi1Tdqaoutput001.ts
+#EXTINF:2.968333,
+https://gitee.com/okayjskl/kojidk/raw/master/cSi1Tdqaoutput002.ts
+#EXTINF:5.968333,
+https://gitee.com/okayjskl/kojidk/raw/master/cSi1Tdqaoutput003.ts
+#EXTINF:4.868333,
+https://gitee.com/okayjskl/kojidk/raw/master/cSi1Tdqaoutput004.ts
+#EXT-X-ENDLIST
