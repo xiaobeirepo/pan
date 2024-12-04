@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:7
+#EXTINF:6.035000,
+https://gitee.com/okayjskl/kojidk/raw/master/BGNO9TKfoutput000.ts
+#EXTINF:5.968333,
+https://gitee.com/okayjskl/kojidk/raw/master/BGNO9TKfoutput001.ts
+#EXTINF:3.068333,
+https://gitee.com/okayjskl/kojidk/raw/master/BGNO9TKfoutput002.ts
+#EXT-X-ENDLIST
