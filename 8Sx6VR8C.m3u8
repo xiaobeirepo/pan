@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:7
+#EXTINF:6.018333,
+https://gitee.com/okayjskl/kojidk/raw/master/8Sx6VR8Coutput000.ts
+#EXTINF:5.985000,
+https://gitee.com/okayjskl/kojidk/raw/master/8Sx6VR8Coutput001.ts
+#EXTINF:2.468333,
+https://gitee.com/okayjskl/kojidk/raw/master/8Sx6VR8Coutput002.ts
+#EXT-X-ENDLIST
