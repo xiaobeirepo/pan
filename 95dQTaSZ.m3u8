@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:7
+#EXTINF:6.097000,
+https://gitee.com/okayjskl/fkoslp/raw/master/95dQTaSZoutput000.ts
+#EXTINF:6.007000,
+https://gitee.com/okayjskl/fkoslp/raw/master/95dQTaSZoutput001.ts
+#EXTINF:2.972000,
+https://gitee.com/okayjskl/fkoslp/raw/master/95dQTaSZoutput002.ts
+#EXTINF:6.014000,
+https://gitee.com/okayjskl/fkoslp/raw/master/95dQTaSZoutput003.ts
+#EXTINF:5.809000,
+https://gitee.com/okayjskl/fkoslp/raw/master/95dQTaSZoutput004.ts
+#EXT-X-ENDLIST
