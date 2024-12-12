@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:7
+#EXTINF:5.081222,
+https://gitee.com/okayjskl/skoako/raw/master/qCdc1Uefoutput000.ts
+#EXTINF:6.000000,
+https://gitee.com/okayjskl/skoako/raw/master/qCdc1Uefoutput001.ts
+#EXTINF:4.000000,
+https://gitee.com/okayjskl/skoako/raw/master/qCdc1Uefoutput002.ts
+#EXTINF:2.800000,
+https://gitee.com/okayjskl/skoako/raw/master/qCdc1Uefoutput003.ts
+#EXT-X-ENDLIST
