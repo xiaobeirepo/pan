@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.089556,
+https://gitee.com/okayjskl/skoako/raw/master/NvP2kYahoutput000.ts
+#EXTINF:0.041667,
+https://gitee.com/okayjskl/skoako/raw/master/NvP2kYahoutput001.ts
+#EXT-X-ENDLIST
