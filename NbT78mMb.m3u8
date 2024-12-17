@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:6.000000,
+https://gitee.com/okayjskl/kocisj/raw/master/NbT78mMboutput000.ts
+#EXTINF:5.000000,
+https://gitee.com/okayjskl/kocisj/raw/master/NbT78mMboutput001.ts
+#EXTINF:5.000000,
+https://gitee.com/okayjskl/kocisj/raw/master/NbT78mMboutput002.ts
+#EXTINF:1.566667,
+https://gitee.com/okayjskl/kocisj/raw/master/NbT78mMboutput003.ts
+#EXT-X-ENDLIST
