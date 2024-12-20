@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.500000,
+https://gitee.com/okayjskl/dokos/raw/master/12sK4cQRoutput000.ts
+#EXTINF:1.750000,
+https://gitee.com/okayjskl/dokos/raw/master/12sK4cQRoutput001.ts
+#EXT-X-ENDLIST
