@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:9.466667,
+https://gitee.com/okayjskl/osjiw/raw/master/CiL98tZAoutput000.ts
+#EXTINF:4.366667,
+https://gitee.com/okayjskl/osjiw/raw/master/CiL98tZAoutput001.ts
+#EXTINF:5.733333,
+https://gitee.com/okayjskl/osjiw/raw/master/CiL98tZAoutput002.ts
+#EXT-X-ENDLIST
