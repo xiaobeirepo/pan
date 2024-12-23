@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.785944,
+https://gitee.com/okayjskl/koxoka/raw/master/5XhEdBnfoutput000.ts
+#EXTINF:4.285944,
+https://gitee.com/okayjskl/koxoka/raw/master/5XhEdBnfoutput001.ts
+#EXTINF:2.904278,
+https://gitee.com/okayjskl/koxoka/raw/master/5XhEdBnfoutput002.ts
+#EXT-X-ENDLIST
