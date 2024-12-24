@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:26
+#EXTINF:25.023222,
+https://gitee.com/okayjskl/kodsa/raw/master/jpofRhoYoutput000.ts
+#EXTINF:25.000000,
+https://gitee.com/okayjskl/kodsa/raw/master/jpofRhoYoutput001.ts
+#EXTINF:25.000000,
+https://gitee.com/okayjskl/kodsa/raw/master/jpofRhoYoutput002.ts
+#EXTINF:25.000000,
+https://gitee.com/okayjskl/kodsa/raw/master/jpofRhoYoutput003.ts
+#EXTINF:9.100000,
+https://gitee.com/okayjskl/kodsa/raw/master/jpofRhoYoutput004.ts
+#EXT-X-ENDLIST
