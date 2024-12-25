@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.866667,
+https://gitee.com/okayjskl/aowijks/raw/master/AWhPw53houtput000.ts
+#EXTINF:4.833333,
+https://gitee.com/okayjskl/aowijks/raw/master/AWhPw53houtput001.ts
+#EXTINF:4.833333,
+https://gitee.com/okayjskl/aowijks/raw/master/AWhPw53houtput002.ts
+#EXTINF:4.833333,
+https://gitee.com/okayjskl/aowijks/raw/master/AWhPw53houtput003.ts
+#EXTINF:0.633333,
+https://gitee.com/okayjskl/aowijks/raw/master/AWhPw53houtput004.ts
+#EXT-X-ENDLIST
