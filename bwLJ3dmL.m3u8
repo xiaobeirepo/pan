@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:9
+#EXTINF:8.400000,
+https://gitee.com/okayjskl/ckoss/raw/master/bwLJ3dmLoutput000.ts
+#EXTINF:4.400000,
+https://gitee.com/okayjskl/ckoss/raw/master/bwLJ3dmLoutput001.ts
+#EXT-X-ENDLIST
