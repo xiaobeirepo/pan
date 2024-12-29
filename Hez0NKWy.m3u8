@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.510500,
+https://gitee.com/okayjskl/koclso/raw/master/Hez0NKWyoutput000.ts
+#EXTINF:10.427067,
+https://gitee.com/okayjskl/koclso/raw/master/Hez0NKWyoutput001.ts
+#EXTINF:6.381367,
+https://gitee.com/okayjskl/koclso/raw/master/Hez0NKWyoutput002.ts
+#EXT-X-ENDLIST
