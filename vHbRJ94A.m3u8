@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:9.080000,
+https://gitee.com/okayjskl/kocls/raw/master/vHbRJ94Aoutput000.ts
+#EXTINF:10.000000,
+https://gitee.com/okayjskl/kocls/raw/master/vHbRJ94Aoutput001.ts
+#EXTINF:9.080000,
+https://gitee.com/okayjskl/kocls/raw/master/vHbRJ94Aoutput002.ts
+#EXTINF:2.000000,
+https://gitee.com/okayjskl/kocls/raw/master/vHbRJ94Aoutput003.ts
+#EXT-X-ENDLIST
